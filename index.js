@@ -27,7 +27,6 @@ function initializeGame(){
     statusText.textContent = `${currentPlayer}'s turn`;
     running = true;
 
-
 }
 
 function cellClicked(){
